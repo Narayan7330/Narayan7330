@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Narayan7330
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning full stack dev through theodinproject
-- 💞️ I’m looking to collaborate on devlopers
-- 📫 How to reach me x:@Narayan_8303 || linkedin:https://www.linkedin.com/in/narayan-mali-b4124b252/
-- 😄 Pronouns: he/him
+Hi there, I'm Narayan
+
+-Aspiring Full Stack Developer
+-Currently learning Web Development through The Odin Project
+-Open to collaboration with other developers
+
+-Connect with me:
+Twitter (X): @Narayan_8303
+LinkedIn
+
   
 
 <!---
