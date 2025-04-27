@@ -1,12 +1,15 @@
 Hi there, I'm Narayan
 
 -Aspiring Full Stack Developer
+
 -Currently learning Web Development through The Odin Project
+
 -Open to collaboration with other developers
 
 -Connect with me:
 Twitter (X): @Narayan_8303
-LinkedIn
+
+LinkedIn : https://www.linkedin.com/in/narayan-mali-b4124b252/
 
   
 
